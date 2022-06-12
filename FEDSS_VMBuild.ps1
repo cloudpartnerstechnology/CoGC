@@ -1,1 +1,0 @@
-# FEDSS_VMBuild placeholder
